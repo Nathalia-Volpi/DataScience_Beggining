@@ -2,6 +2,7 @@
 ##DataScience_Beginning
 
 
+
 Bem-vindo à minha coleção de Notebooks, que abrange os fundamentos essenciais de Data Science. Aqui, você encontrará informações detalhadas sobre o processamento de dados, utilizando as principais bibliotecas de ciências de dados, além de uma introdução à estatística básica. Estes notebooks representam o ponto inicial da minha jornada e foram desenvolvidos ao longo dos cursos oferecidos pela plataforma Alura, incluindo:
 
 **Formação de Data Science:** Este curso proporcionou uma compreensão abrangente dos conceitos fundamentais de Data Science, abordando desde a coleta e limpeza de dados até a criação de modelos preditivos.
